@@ -1,8 +1,8 @@
 # node-v7
 
-kp is a tool for kill process by server port. only use for mac && linux
+use v8 --harmony_async_await as default flag
 
-[![npm version](https://badge.fury.io/js/kp.svg)](http://badge.fury.io/js/kp)
+[![npm version](https://badge.fury.io/js/v7.svg)](http://badge.fury.io/js/v7)
 
 ## Install
 
